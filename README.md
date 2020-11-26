@@ -10,3 +10,5 @@
 >  Linear Regrssion -> Logistic Regrssion -> Binary Classfication -> Multi Class Classification  
 > 선형회기와 비슷하지만 범주 형 데이터를 위한 것.( 0 or 1 , False or True, A or B or C 같은 것.)  
 > 데이터를 주고 Cost 를 통하여 H(x) 를 Optimizing 한다.
+
+엄청난 무리였다. 상도 못 받음.
