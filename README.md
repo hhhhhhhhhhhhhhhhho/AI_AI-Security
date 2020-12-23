@@ -20,14 +20,14 @@ AI Hacking 에 관한 스터디가 아주 기대된다.
 # Project
 
 # Sejong AI Hackerthon  
-비대면 AI 시험 감독관 : ISEEYOU  
-:mortar_board: [ISEEYOU GITHUB](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon)
+>비대면 AI 시험 감독관 : ISEEYOU  
+  :mortar_board: [ISEEYOU GITHUB](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon)
 
-## SKill
-### 1. Eye Tracking using Face Recoginition 
-![EyeTracking](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon/blob/main/etc/picture1.png)
+  ## SKill
+  ### 1. Eye Tracking using Face Recoginition 
+  ![EyeTracking](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon/blob/main/etc/picture1.png)
 
-### 2. Logisic Classification
-> 좀 더 좋은 알고리즘이나 방식을 사용했어야 했다는 feedback
+  ### 2. Logisic Classification
+  > 좀 더 좋은 알고리즘이나 방식을 사용했어야 했다는 feedback
 
 
