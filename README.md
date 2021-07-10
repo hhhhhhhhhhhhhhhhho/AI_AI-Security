@@ -3,7 +3,7 @@
 > 인공지능 보안에 관심이 생겨 시작한 공부 기록
 
 ### 2020.10.29 인공지능 챌린지 5일 남겨두고 인공지능 공부 첫 시작
-> 중간고사 끝난지 4시간 만에 다시 공부 시작, 짜릿하다
+> 중간고사 끝난지 4시간 만에 다시 공부 시작
 
 ### 2020.10.29 선형회기 ( Linear Regression )
 
@@ -26,7 +26,7 @@ AI Hacking 에 관한 스터디가 아주 기대된다.
   :mortar_board: [ISEEYOU GITHUB](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon)
   ![EyeTracking](https://github.com/hhhhhhhhhhhhhhhhho/2020-Sejong-Winter-Hackerthon/blob/main/etc/picture1.png)
   ## SKill
-  ### 1. Eye Tracking using Face Recoginition 
+  ### 1. Eye Tracking using Face Recoginition
 
   ### 2. Logisic Classification
   > 좀 더 좋은 알고리즘이나 방식을 사용했어야 했다는 feedback -jang hu lee -
