@@ -30,3 +30,5 @@ AI Hacking 에 관한 스터디가 아주 기대된다.
 
   ### 2. Logisic Classification
   > 좀 더 좋은 알고리즘이나 방식을 사용했어야 했다는 feedback -jang hu lee -
+  
+  ### 3. Voice Recognition - YAMNet
